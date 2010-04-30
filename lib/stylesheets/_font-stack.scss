@@ -1,29 +1,26 @@
-/*
-
-  Serif and sans-serif font stacks from:
-
-  A Revised Font Stack
-  http://www.awayback.com/revised-font-stack
-
-
-  Monospace font stack from: 
-  
-  8 Definitive Web Font Stacks
-  http://articles.sitepoint.com/article/eight-definitive-font-stacks
-
-
-  Cursive font stack from:
-  
-  Build better CSS font stacks
-    Cursive  font stack featuring Bradley Hand ITC
-  http://www.codestyle.org/css/font-family/BuildBetterCSSFontStacks.shtml
-
-*/
+//
+//  Serif and sans-serif font stacks from:
+//
+//  A Revised Font Stack
+//  http://www.awayback.com/revised-font-stack
+//
+//
+//  Monospace font stack from: 
+//  
+//  8 Definitive Web Font Stacks
+//  http://articles.sitepoint.com/article/eight-definitive-font-stacks
+//
+//
+//  Cursive font stack from:
+//  
+//  Build better CSS font stacks - Cursive  font stack featuring Bradley Hand ITC
+//  http://www.codestyle.org/css/font-family/BuildBetterCSSFontStacks.shtml
+//
 
 
-/*
-  Serif font-stacks
-*/
+//
+// Serif font-stacks
+//
 
 $garamond-font-stack: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif !default;
 
@@ -50,9 +47,9 @@ $cambria-font-stack: Cambria, Georgia, serif !default;
 $book-antiqua-font-stack: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif !default;
 
 
-/*
-  Sans-Serif font-stacks
-*/
+//
+// Sans-Serif font-stacks
+//
 
 $optima-font-stack: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif !default;
 
@@ -81,18 +78,18 @@ $franklin-gothic-font-stack: "Franklin Gothic Medium", Arial, sans-serif !defaul
 $tahoma-font-stack: Tahoma, Geneva, Verdana, sans-serif !default;
 
 
-/*
-  Monospace font-stacks
-
-  Consolas is not included in this stack because it is much smaller than the other fonts listed in the stack.
-*/
+//
+// Monospace font-stacks
+//
+// Consolas is not included in this stack because it is much smaller than the other fonts listed in the stack.
+//
 
 $monospace-font-stack: "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace !default;
 
 
-/* 
-  Cursive font-stacks
-*/
+// 
+// Cursive font-stacks
+//
 
 $cursive-font-stack: "Bradley Hand ITC", "Apple Chancery", "URW Chancery L", cursive !default;
 
