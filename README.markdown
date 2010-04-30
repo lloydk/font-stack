@@ -1,5 +1,6 @@
 # Font-stack
-A [Compass](http://compass-style.org/) plugin that provides a library of CSS font stacks as [Sass](http://sass-lang.com/) variables.
+A [Compass](http://compass-style.org/) plugin that provides a library of CSS font stacks configured as [Sass](http://sass-lang.com/) variables. 
+Each font stack tries to provide fallback fonts for Windows, Mac and Linux that have roughly the same characteristics as the primary font in the stack. 
 
 ## Installation
 
