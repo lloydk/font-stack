@@ -21,6 +21,11 @@ To add font-stack to an existing compass project add the following line to your 
     code { font-family: $monospace-font-stack; }
     .signature { font-family: $cursive-font-stack; }
 
+## List of Font Stacks
+
+http://github.com/lloydk/font-stack/blob/master/lib/stylesheets/_font-stack.scss
+
+
 ## Todo
 
 - Add additional fonts to the cursive font-stack
