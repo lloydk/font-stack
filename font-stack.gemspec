@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |gemspec|
   gemspec.name = "font-stack"
-  gemspec.version = "0.1.1"
+  gemspec.version = "0.1.2"
   gemspec.platform  = Gem::Platform::RUBY
   gemspec.date = "#{Time.now.year}-#{Time.now.month}-#{Time.now.day}"
   gemspec.authors = ["Lloyd Kupchanko"]
