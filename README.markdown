@@ -1,30 +1,25 @@
-## Font-stack
-
-A Compass plugin that provides a library of CSS font stacks as Sass variables. 
+# Font-stack
+A [Compass][compass] plugin that provides a library of CSS font stacks as [Sass][sass] variables.
 
 ## Installation
 
 Install the plugin:
+
     sudo gem install font-stack
 
-To add font-stack to an existing compass project:
+To add font-stack to an existing compass project add the following line to your compass configuration file:
 
-    # Add the following lines to your compass configuration file:
     require 'font-stack'
 
 ## Example Usage
 
-Import the font stack scss file
+    @import "font-stack"
 
-  @import "font-stack"
-
-  body { font-family: $tahoma-font-stack; }
-  h1 { font-family: $palatino-font-stack; }
-  code { font-family: $monospace-font-stack; }
-  .signature { font-family: $cursive-font-stack; }
+    body { font-family: $tahoma-font-stack; }
+    h1 { font-family: $palatino-font-stack; }
+    code { font-family: $monospace-font-stack; }
+    .signature { font-family: $cursive-font-stack; }
  
-    
-
 ## Credits
 
 Serif and sans-serif font stacks from:
@@ -41,8 +36,7 @@ http://articles.sitepoint.com/article/eight-definitive-font-stacks
 
 Cursive font stack from:
   
-Build better CSS font stacks
-  Cursive  font stack featuring Bradley Hand ITC
+Build better CSS font stacks, Cursive font stack featuring Bradley Hand ITC
 http://www.codestyle.org/css/font-family/BuildBetterCSSFontStacks.shtml
 
 
