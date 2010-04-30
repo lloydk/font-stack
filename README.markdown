@@ -19,20 +19,22 @@ To add font-stack to an existing compass project add the following line to your 
     h1 { font-family: $palatino-font-stack; }
     code { font-family: $monospace-font-stack; }
     .signature { font-family: $cursive-font-stack; }
+
+## Todo
+
+- Add additional fonts to the cursive font-stack
+
  
 ## Credits
 
 Serif and sans-serif font stacks from:
-
 [www.awayback.com - A Revised Font Stack](http://www.awayback.com/revised-font-stack)
 
 
 Monospace font stack from: 
-  
 [articles.sitepoint.com - 8 Definitive Web Font Stacks](http://articles.sitepoint.com/article/eight-definitive-font-stacks)
 
 
 Cursive font stack from:
-  
 [www.codestyle.org - Build better CSS font stacks, Cursive font stack featuring Bradley Hand ITC](http://www.codestyle.org/css/font-family/BuildBetterCSSFontStacks.shtml)
    
