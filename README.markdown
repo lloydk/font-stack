@@ -1,5 +1,5 @@
 # Font-stack
-A [Compass][compass] plugin that provides a library of CSS font stacks as [Sass][sass] variables.
+A [Compass](http://compass-style.org/) plugin that provides a library of CSS font stacks as [Sass](http://sass-lang.com/) variables.
 
 ## Installation
 
@@ -24,21 +24,15 @@ To add font-stack to an existing compass project add the following line to your 
 
 Serif and sans-serif font stacks from:
 
-A Revised Font Stack
-http://www.awayback.com/revised-font-stack
+[www.awayback.com - A Revised Font Stack](http://www.awayback.com/revised-font-stack)
 
 
 Monospace font stack from: 
   
-8 Definitive Web Font Stacks
-http://articles.sitepoint.com/article/eight-definitive-font-stacks
+[articles.sitepoint.com - 8 Definitive Web Font Stacks](http://articles.sitepoint.com/article/eight-definitive-font-stacks)
 
 
 Cursive font stack from:
   
-Build better CSS font stacks, Cursive font stack featuring Bradley Hand ITC
-http://www.codestyle.org/css/font-family/BuildBetterCSSFontStacks.shtml
-
-
-
-    
+[www.codestyle.org - Build better CSS font stacks, Cursive font stack featuring Bradley Hand ITC](http://www.codestyle.org/css/font-family/BuildBetterCSSFontStacks.shtml)
+   
