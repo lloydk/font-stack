@@ -29,6 +29,7 @@ http://github.com/lloydk/font-stack/blob/master/lib/stylesheets/_font-stack.scss
 ## Todo
 
 - Add additional fonts to the cursive font-stack
+- Add mixins 
 
  
 ## Credits
