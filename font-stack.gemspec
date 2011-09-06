@@ -4,7 +4,6 @@ Gem::Specification.new do |gemspec|
   gemspec.name = "font-stack"
   gemspec.version = "0.1.2"
   gemspec.platform  = Gem::Platform::RUBY
-  gemspec.date = "#{Time.now.year}-#{Time.now.month}-#{Time.now.day}"
   gemspec.authors = ["Lloyd Kupchanko"]
   gemspec.email = "lloyd@lloydk.ca"
   gemspec.homepage = "http://github.com/lloydk/font-stack"
@@ -16,6 +15,6 @@ Gem::Specification.new do |gemspec|
   gemspec.require_path = "lib"
   gemspec.files = ["README.markdown", "font-stack.gemspec", "lib/font-stack.rb", "lib/stylesheets/_font-stack.scss"]
 
-  gemspec.add_dependency('haml', '>= 3.0.0.rc.1')
+  gemspec.add_dependency('sass', '>= 3.0.0')
 end
 
